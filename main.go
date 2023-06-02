@@ -9,5 +9,6 @@ func main() {
 	// ninja1.Ex2()
 	// ninja1.Ex3()
 	// ninja1.Ex4()
+
 	ninja1.Ex5()
 }
