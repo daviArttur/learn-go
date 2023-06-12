@@ -1,7 +1,7 @@
 package main
 
 import (
-	ninja7 "github.com/daviArttur/learn-go/ninja/7"
+	ninja10 "github.com/daviArttur/learn-go/ninja/10"
 )
 
 func main() {
@@ -38,6 +38,17 @@ func main() {
 	//ninja6.Ex10()
 
 	//ninja7.Ex1()
-	ninja7.Ex2()
+	//ninja7.Ex2()
 
+	//ninja9.Ex1()
+	//ninja9.Ex2()
+	//ninja9.Ex3()
+	//ninja9.Ex4()
+
+	//ninja10.Ex1()
+	//ninja10.Ex2()
+	//ninja10.Ex3()
+	//ninja10.Ex4()
+	//ninja10.Ex6()
+	ninja10.Ex7()
 }
